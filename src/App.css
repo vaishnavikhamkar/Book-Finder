@@ -1,0 +1,47 @@
+body{
+  background-color: black;
+}
+
+
+.App {
+  text-align: center;
+  
+}
+
+
+
+.container{
+   width:90%;
+   margin:auto;
+   justify-content: center;
+   text-align: center;
+}
+
+
+.input-field{
+  justify-content: center;
+  text-align: left;
+  padding: 20px 20px;
+  padding-left: 7px;
+  width: 89%;
+  margin: 20px 14px;
+  font-size: xxx-large;
+  background: gainsboro;
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.list{
+  list-style: none;
+  font-size:20px;
+  display:flex;
+  flex-wrap:wrap;
+  color:white;
+
+}
+
+.list-item{
+  background:cadetblue;
+  padding:10px;
+  margin:10px;
+  width:45%
+}
